@@ -1,2 +1,2 @@
 # Fight-It-Out-Game
-Fight It Out is an basic FPS developed in unity for webinar
+Fight It Out is an basic FPS developed using unity for webinar.
