@@ -129,6 +129,7 @@ MonoBehaviour:
   Player: {fileID: 0}
   shootingRange: 20
   EnemyBullets: {fileID: 4522131593981662767}
+  Enemy: {fileID: 7111777464591359429}
 --- !u!114 &1874632451
 MonoBehaviour:
   m_ObjectHideFlags: 0
